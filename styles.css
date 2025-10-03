@@ -12,21 +12,21 @@
 .box{
 	border:2px dotted rgb(38, 38, 43);
 }
-.bg-teal{
+.r1c1{
 	background-color:teal;
 }
-.bg-thistle{
+.r1c2{
 	background-color:thistle;
 }
-.bg-tomato{
+.r2c1{
 	background-color:tomato;
 }
-.bg-turquoise{
+.r2c2{
 	background-color:turquoise;
 }
-.bg-violet{
+.r3c1{
 	background-color:violet;
 }
-.bg-yellowgreen{
+.r3c2{
 	background-color:yellowgreen;
 }
